@@ -40,7 +40,7 @@ export default function About() {
         return <>
             <p><span style={{color: info.baseColor}}>{firstName}{info.lastName.toLowerCase()} $</span> cd
                 hobbies/interests</p>
-            <p><span style={{color: info.baseColor}}>hobbies/interests <span
+            <p><span style={{color: info.baseColor}}>hobbies/interests test <span
                 className={Style.green}>(main)</span> $</span> ls</p>
             <ul>
                 {info.hobbies.map((hobby, index) => (
