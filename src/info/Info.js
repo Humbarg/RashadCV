@@ -1,6 +1,9 @@
 import self from "../img/reactphoto.jpeg"
 
-import project from "../img/project1.png"
+
+
+import project1back from "../img/project1back.png";
+
 
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
@@ -125,7 +128,7 @@ export const info = {
             title: "Demo Project",
             live: "https://react-pizza-v2.vercel.app/",
             source: "",
-            image: project 
+            image: project1back
         },
     ]
 }
